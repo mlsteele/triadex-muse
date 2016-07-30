@@ -5,6 +5,8 @@ Python and pyo implementation of the 1971 Triadex Muse by Ed Fredkin and Marvin 
 
 Install pyo from [http://ajaxsoundstudio.com/software/pyo/].
 
+Download this repository.
+
 Turn up the volume and run:
 ```shell
 python Muse2.py
