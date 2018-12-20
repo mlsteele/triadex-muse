@@ -9,5 +9,5 @@ Download this repository.
 
 Turn up the volume and run:
 ```shell
-python Muse2.py
+python Muse.py
 ```
